@@ -1,0 +1,19 @@
+{
+  "name": "recipay---tcc",
+  "version": "1.0.0",
+  "description": "Trabalho de Conclusão de Curso.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sat0oSan/ReciPay---TCC.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sat0oSan/ReciPay---TCC/issues"
+  },
+  "homepage": "https://github.com/Sat0oSan/ReciPay---TCC#readme"
+}
